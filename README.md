@@ -1,2 +1,2 @@
-Odin Project's Google homepage front end project\n
-Goal: recreate the Google home page
+Odin Project's Google homepage front end project
+<p>Goal: recreate the Google home page</p>
