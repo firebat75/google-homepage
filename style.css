@@ -8,6 +8,11 @@
     
 }
 
+.boxes {
+    background-position: -132px -38px;
+    opacity: .55;
+}
+
 #top-left {
     position: absolute;
     margin: 7px 0 0 10px;
@@ -17,7 +22,7 @@
 
 #top-right {
     position: absolute;
-    margin: 7px 0 10px 0;
+    margin: 7px 10px 0 0;
     top: 0;
     right: 0;
 }
