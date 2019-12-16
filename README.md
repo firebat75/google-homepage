@@ -3,3 +3,4 @@ Odin Project's Google homepage front end project
 
 <h2>The Result</h2>
 <img src="https://i.gyazo.com/194a3bc9c0614519a37074fdc2d518ba.gif">
+<h4>Lesson: No time for perfectionism in a webdev bootcamp</h4>
